@@ -1,0 +1,9 @@
+Feature,"ENIGMA-OCD (Piras et al., 2021)",This reproduction
+Design,"Cross-sectional, 19 sites (meta-analytic)","Cross-sectional, single site (subject-level)"
+Adult OCD N,700 (vs 645 controls),59 (no control group)
+Severity measure,"Y-BOCS (Goodman et al., 1989)","Y-BOCS-II (Storch et al., 2010)"
+Severity test,Meta-regression of FA effect size on site severity,Subject-level OLS: DTI ~ severity + age + sex
+Covariates,"Age, sex (+ nonlinear/age×sex)","Age, sex"
+Multiple-comparison control,FDR,FDR (Benjamini–Hochberg)
+DTI–severity association,Not significant,Not significant (0/90 tests survive FDR)
+Interpretation,"WM alterations are trait markers, not severity-scaled",Replicates the ENIGMA null severity association
