@@ -55,10 +55,6 @@ to the data-holding laboratory.
 Only **de-identified, group-level** outputs (the figures and the tables in `tables/`) are
 shared here. No participant identifiers appear in any file in this repository.
 
-To run the notebook you must place the source CSV (named
-`db_ocd.csv`) in the repository root yourself;
-`.gitignore` will prevent it from being tracked.
-
 ---
 
 ## Setup & reproduction
