@@ -106,7 +106,7 @@ reproducible from the data.
 
 ## citation
 
-Please cite the source study (Piras et al., 2021, above).
+Piras, F., Piras, F., Abe, Y., Agarwal, S. M., Anticevic, A., Ameis, S., Arnold, P., Banaj, N., Bargalló, N., Batistuzzo, M. C., Benedetti, F., Beucke, J. C., Boedhoe, P. S. W., Bollettini, I., Brem, S., Calvo, A., Cho, K. I. K., Ciullo, V., Dallaspezia, S., Dickie, E., … Spalletta, G. (2021). White matter microstructure and its relation to clinical features of obsessive-compulsive disorder: findings from the ENIGMA OCD Working Group. Translational psychiatry, 11(1), 173. https://doi.org/10.1038/s41398-021-01276-z
 
 ## ethics
 
